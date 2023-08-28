@@ -1,3 +1,10 @@
+#Installing and Running this project at your local device.
+First run "git clone  https://github.com/zaidKamboo/NewsApp.git" in your git bash in the folder you want to create this project.
+Then run "cd /NewsApp" and then run "code." else open the NewsApp folder in VS Code.
+Make sure you have "node js" and "npm" installed in your machine.
+Then run "npm install" on the terminal of VS Code.This will install all the dependencies of this project in your local Machine.
+Then simply run "npm run start" to start the Application in your browser.
+In this code I am providing my "NewsApi" key but you can use your own if you have it.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
