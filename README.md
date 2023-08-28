@@ -1,4 +1,4 @@
-#Installing and Running this project at your local device.
+# Installing and Running this project at your local device.
 First run "git clone  https://github.com/zaidKamboo/NewsApp.git" in your git bash in the folder you want to create this project.
 Then run "cd /NewsApp" and then run "code." else open the NewsApp folder in VS Code.
 Make sure you have "node js" and "npm" installed in your machine.
